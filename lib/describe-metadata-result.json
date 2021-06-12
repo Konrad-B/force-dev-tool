@@ -28,6 +28,13 @@
 			"xmlName": "ApexClass"
 		},
 		{
+			"directoryName": "bots",
+			"inFolder": false,
+			"metaFile": true,
+			"suffix": "bot",
+			"xmlName": "Bot"
+		},
+		{
 			"directoryName": "components",
 			"inFolder": false,
 			"metaFile": true,
